@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**shahidps2001/shahidps2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Shahid — MCA graduate with 8.21 CGPA
 
-Here are some ideas to get you started:
+👨‍💻 Full-stack developer passionate about building real-world applications
+🔭 Currently working on: NLP & ML projects 
+🧪 Internship: 6-month experience as a Full-Stack Developer Intern
+🎓 Courses completed:
+Meta Full-Stack Developer (Coursera)
+Machine Learning specialization (Coursera)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & tech I use: Python, Django, React, JavaScript, Git, REST APIs
+🌱 Learning: Advanced ML/NLP and improving full-stack skills
+📬 Reach me at: your email
